@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Linq.Expressions;
 using System.Windows.Input;
 
-namespace TestModule
+namespace Utilities
 {
   /*
    Similar to DelegateCommand that is commonly used for WPF but it automatically fires CanExecuteChanged.
